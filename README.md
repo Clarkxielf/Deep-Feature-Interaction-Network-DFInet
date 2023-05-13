@@ -2,7 +2,7 @@
 
 ## Citation
 @ARTICLE{9944158,<br>
-  author={Yin, Ming and Zhu, Yangyang and Yin, Guofu and Fu, Guoqiang and Xie, Luofeng},<br>
+>>>author={Yin, Ming and Zhu, Yangyang and Yin, Guofu and Fu, Guoqiang and Xie, Luofeng},<br>
   journal={IEEE Transactions on Industrial Informatics}, <br>
   title={Deep Feature Interaction Network for Point Cloud Registration, With Applications to Optical Measurement of Blade Profiles}, <br>
   year={2022},<br>
